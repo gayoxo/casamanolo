@@ -26,6 +26,7 @@ define('DB_PASSWORD', 'Gayoxo210584');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
 define('DB_HOST', 'localhost');
+/**mysql6.000webhost.com**/
 
 /** Codificación de caracteres para la base de datos. */
 define('DB_CHARSET', 'utf8');
